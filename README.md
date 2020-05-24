@@ -13,3 +13,8 @@ Low memory available, stability problems may occur.
 
 [Solution]
 This is sorry but this source, Arudino sketch, reduced the Rapiro's motion and reduce the global memory to make enough local memory spaces.
+
+[After]
+Sketch uses 9,186 bytes (28%) of program storage space. Maximum is 32,256 bytes.
+Global variables use 1,484 bytes (72%) of dynamic memory, leaving 564 bytes for local variables. Maximum is 2,048 bytes.
+Low memory available, stability problems may occur.
